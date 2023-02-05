@@ -2,6 +2,7 @@
   "name": "ghersay",
   "version": "1.0.1",
   "description": "gehr the wings cockatoo",
+  "type": "module",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
